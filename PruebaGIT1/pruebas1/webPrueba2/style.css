@@ -1,0 +1,18 @@
+*{
+    margin: 1.5px;
+    padding: 1.5px;
+}
+
+section{
+    background: rosybrown;
+    text-align: center;
+    width: 150px;
+}
+
+h2{
+    color: aquamarine;
+}
+
+p{
+    color: aqua;
+}
